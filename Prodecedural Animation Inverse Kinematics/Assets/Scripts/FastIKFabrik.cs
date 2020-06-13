@@ -20,6 +20,7 @@ namespace DitzelGames.FastIK
         /// </summary>
         public Transform Target;
         public Transform Pole;
+        public Transform NextTarget;
 
         /// <summary>
         /// Solver iterations per update
